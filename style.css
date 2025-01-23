@@ -149,7 +149,7 @@ h2 {
         height: 60px;
     }
     #toastBox {
-       
+           padding: 7px;
         bottom: 0px;
         right: 0px;
         
