@@ -155,6 +155,8 @@ h2 {
         
     }
     body {
+        overflow-x:hidden;
+        max-width:100%;
         display: flex;
         background-color: #f7edff;
         flex-direction: column;
